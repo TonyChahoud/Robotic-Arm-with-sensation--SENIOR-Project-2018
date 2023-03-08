@@ -7,6 +7,8 @@ This project was undertaken as part of my Bachelor's degree in Computer and Comm
 The project received full funding from LIRA (Lebanese Industrial Research Achievements), which was provided by the Ministry of Industry in Lebanon in 2018. 
 The project was recognized as one of the top 10 projects of the year.
 ![Project 2018 ](https://user-images.githubusercontent.com/100942364/223755308-db482d65-2030-4207-b6a5-77597cc06e0a.jpg)
+![LIra Senior ](https://user-images.githubusercontent.com/100942364/223755966-1b037d99-5085-4097-9a64-cd634131c8d9.jpg)
+
 
 
 The significance of this project lies not only in the development of robots that can protect themselves from harm, but also in the potential for the technology to be used in the creation of prosthetic arms for amputees. The objective of the project was to design and develop a robotic arm that could sense temperature, pain, and pressure. To achieve this, multiple temperature and pressure sensors were placed on the palm and fingers of the robotic hand, and four servo motors were placed on the elbow to control the arm's movements. Pain sensation was obtained by carefully studying human temperature and pressure thresholds and embedding them in custom-developed software. The measured values were represented by a withdrawal reflex achieved by the servo motors to protect the arm from potential damage. Additionally, a voice signal depicted the resulting sensation, and a screen displayed the level of temperature, pain, or pressure, or any combination of them.
