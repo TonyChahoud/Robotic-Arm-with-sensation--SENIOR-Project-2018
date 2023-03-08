@@ -12,7 +12,8 @@ The project was recognized as one of the top 10 projects of the year.
 
 
 The significance of this project lies not only in the development of robots that can protect themselves from harm, but also in the potential for the technology to be used in the creation of prosthetic arms for amputees. The objective of the project was to design and develop a robotic arm that could sense temperature, pain, and pressure. To achieve this, multiple temperature and pressure sensors were placed on the palm and fingers of the robotic hand, and four servo motors were placed on the elbow to control the arm's movements. Pain sensation was obtained by carefully studying human temperature and pressure thresholds and embedding them in custom-developed software. The measured values were represented by a withdrawal reflex achieved by the servo motors to protect the arm from potential damage. Additionally, a voice signal depicted the resulting sensation, and a screen displayed the level of temperature, pain, or pressure, or any combination of them.
-https://github.com/TonyChahoud/Robotic-Arm-with-sensation--SENIOR-Project-/blob/b8eecce7cc50641f7409a357b64a75bb063c72cf/README.md
+![Presentation ](https://user-images.githubusercontent.com/100942364/223758508-3e7ad683-91d3-445a-87fc-ba78901aa2a8.jpg)
+
 ![certificate 3 (2)](https://user-images.githubusercontent.com/100942364/223758212-d5ec6eab-bd6b-4452-8be3-457f1f61cffc.JPG)
 
 
