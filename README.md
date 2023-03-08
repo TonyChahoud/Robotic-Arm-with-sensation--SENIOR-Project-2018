@@ -1,4 +1,4 @@
-# Robotic-Arm-with-sensation--SENIOR-Project-
+# Robotic-Arm-with-sensation-SENIOR-Project-2018-
 Senior project of my Bachelor's degree in Telecommunication minor's Biomedical Engineering. It involved designing a robotic arm with sensation capabilities. The project received full funding from LIRA (Lebanese Industrial Research Achievements) by the Ministry of Industry in Lebanon in 2018. It was recognized as one of top 10 projects of the year
 
 
